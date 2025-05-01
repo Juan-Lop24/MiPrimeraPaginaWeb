@@ -1,0 +1,77 @@
+[33mcommit a681cce5f5da9922923cd1fbba9898ad15ec3d09[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Juan-Lop24 <jp2420072022ll@gmail.com>
+Date:   Wed Apr 30 09:45:59 2025 -0500
+
+    Sección y artículos del blog
+
+[33mcommit 218225084339ac1e7374a571fd51e64c9a528a46[m
+Author: Juan-Lop24 <jp2420072022ll@gmail.com>
+Date:   Wed Apr 30 09:41:47 2025 -0500
+
+    Sección y artículos del blog
+
+[33mcommit aedf923bb160529c20f7fc7fc2a4e889ca6407c1[m
+Author: Juan-Lop24 <jp2420072022ll@gmail.com>
+Date:   Wed Apr 30 09:35:50 2025 -0500
+
+    Insertar audio
+
+[33mcommit 5bb8da64405be1ae6c8836d63960ba90ac207b2e[m
+Author: Juan-Lop24 <jp2420072022ll@gmail.com>
+Date:   Wed Apr 30 09:26:56 2025 -0500
+
+    Insertar video
+
+[33mcommit 93a74f85a5900eb8d8e708a99a0f137d28028c28[m
+Author: Juan-Lop24 <jp2420072022ll@gmail.com>
+Date:   Wed Apr 30 09:13:23 2025 -0500
+
+    Crear lista ordenada
+
+[33mcommit 5eed21b5bf2196cb50a7a86e7ce971f0ba780d28[m
+Author: Juan-Lop24 <jp2420072022ll@gmail.com>
+Date:   Mon Apr 28 17:46:23 2025 -0500
+
+    Crear formulario de contacto
+
+[33mcommit 6716f1fd47bc761cb09913f035109491110e779e[m
+Author: Juan-Lop24 <jp2420072022ll@gmail.com>
+Date:   Mon Apr 28 17:41:58 2025 -0500
+
+    Agregar tabla de actividades
+
+[33mcommit b06325e6a6d4e31c3989b8b1ab2bb0839b6963aa[m
+Author: Juan-Lop24 <jp2420072022ll@gmail.com>
+Date:   Mon Apr 28 17:32:34 2025 -0500
+
+    Crear enlace interno
+
+[33mcommit 286430c8f2c76195d9c73121c03e4db0e49e3977[m
+Author: Juan-Lop24 <jp2420072022ll@gmail.com>
+Date:   Mon Apr 28 17:27:43 2025 -0500
+
+    Insertar hipervínculo externo
+
+[33mcommit 47e9a22b137fae6c7cccde261166fba217ac4e15[m
+Author: Juan-Lop24 <jp2420072022ll@gmail.com>
+Date:   Mon Apr 28 17:21:48 2025 -0500
+
+    Agregar lista de intereses
+
+[33mcommit 562f075c2f85931d9791f9b1bbb704b73cc51436[m
+Author: Juan-Lop24 <jp2420072022ll@gmail.com>
+Date:   Mon Apr 28 17:16:22 2025 -0500
+
+    Agregar imagen de perfil
+
+[33mcommit a5cb786b0d65b9e01ae4a335f79e2fa61ffb88e4[m
+Author: Juan-Lop24 <jp2420072022ll@gmail.com>
+Date:   Mon Apr 28 17:11:01 2025 -0500
+
+    Agregar encabezados y párrafos
+
+[33mcommit 5144a483ab55128755591ea947558f9c043206ab[m
+Author: Juan-Lop24 <jp2420072022ll@gmail.com>
+Date:   Mon Apr 28 17:00:27 2025 -0500
+
+    estructura inicial del proyecto
